@@ -21,6 +21,6 @@ func main() {
 	var comando int
 
 	fmt.Scanf("%d", &comando)
-	fmt.Println("A opção escolhida foi", comando)
+	fmt.Println(comando, "- foi a opção escolhida.")
 
 }
